@@ -52,6 +52,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out via GitHub issues or direct messaging.
 
+Namenotfound128
+------------------------
+this version was made by me
+
 ---
 
 Thank you for using the Megumin Launcher! Enjoy your gaming experience!
